@@ -1,0 +1,38 @@
+1 Overview
+1.1 Machine learning tasks
+2 History and relationships to other fields
+2.1 Relation to data mining
+2.2 Relation to optimization
+2.3 Relation to statistics
+3 Theory
+4 Approaches
+4.1 Types of learning algorithms
+4.1.1 Supervised and semi-supervised learning
+4.1.2 Unsupervised learning
+4.1.3 Reinforcement learning
+4.2 Processes and techniques
+4.2.1 Feature learning
+4.2.2 Sparse dictionary learning
+4.2.3 Anomaly detection
+4.2.4 Decision trees
+4.2.5 Association rules
+4.3 Models
+4.3.1 Artificial neural networks
+4.3.2 Support vector machines
+4.3.3 Bayesian networks
+4.3.4 Genetic algorithms
+5 Applications
+6 Limitations
+6.1 Bias
+7 Model assessments
+8 Ethics
+9 Software
+9.1 Free and open-source software
+9.2 Proprietary software with free and open-source editions
+9.3 Proprietary software
+10 Journals
+11 Conferences
+12 See also
+13 References
+14 Further reading
+15 External links
